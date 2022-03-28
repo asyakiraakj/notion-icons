@@ -1,0 +1,28 @@
+{
+  "icons": [
+    {
+      "name": "iconsax outline",
+      "source": "dark-mode/iconsax/outline",
+      "count": 896,
+      "extension": "svg",
+      "author": "Iconsax",
+      "authorUrl": "https://iconsax.io/"
+    },
+    {
+      "name": "iconsax bold",
+      "source": "dark-mode/iconsax/bold",
+      "count": 896,
+      "extension": "svg",
+      "author": "Iconsax",
+      "authorUrl": "https://iconsax.io/"
+    },
+    {
+      "name": "unicons line",
+      "source": "dark-mode/unicons/line",
+      "count": 1206,
+      "extension": "svg",
+      "author": "iconscout",
+      "authorUrl": "https://iconscout.com/unicons/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "icons": [
+      {
+        "name": "iconsax outline",
+        "source": "iconsax-outline",
+        "count": 60,
+        "extension": "svg",
+        "author": "Iconsax",
+        "authorUrl": "https://iconsax.io/"
+      }
+    ]
+  }

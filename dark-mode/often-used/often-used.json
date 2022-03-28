@@ -1,0 +1,19 @@
+{
+    "icons": [
+      {
+        "name": "Often used - Darkmode",
+        "sourceUrl": "https://raw.githubusercontent.com/asyakiraakj/notion-icons/main/dark-mode/often-used/",
+        "source":[
+                "academic-cap","angle-down","angle-down_red","angle-up","angle-up_green",
+                "apps","archive","book","book-alt","book-open","brain","chart-bar","circle",
+                "code","copy","credit-card","direction","document-report","estate","folder","folder-open",
+                "glass","globe-alt","image-v","inbox","laptop","layer-group","lightbulb-alt","mobile-android",
+                "notebooks","notes","paint-tool","search-alt","sync","transaction", "wallet"
+        ],
+        "extension": "svg"
+      }
+    ]
+  }
+
+
+
