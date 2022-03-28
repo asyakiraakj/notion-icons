@@ -1,11 +1,7 @@
 {
     "icons": [
       {
-<<<<<<< HEAD
         "name": "heroicons solid",
-=======
-        "name": "heroicons s-lid",
->>>>>>> 3ce1d680bca0f964d0dc536e7c2eb77e8f0ab2a4
         "sourceUrl": "https://raw.githubusercontent.com/asyakiraakj/notion-icons/main/dark-mode/heroicons/solid/",
         "source": "heroicons-solid",
         "count": 230,
