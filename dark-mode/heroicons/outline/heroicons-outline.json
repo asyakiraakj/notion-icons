@@ -1,0 +1,13 @@
+{
+    "icons": [
+      {
+        "name": "herocions oultine",
+        "sourceUrl": "https://raw.githubusercontent.com/asyakiraakj/notion-icons/main/dark-mode/heroicons/outline/",
+        "source": "heroicons-outline",
+        "count": 230,
+        "extension": "svg",
+        "author": "Steve Schoger",
+        "authorUrl": "https://heroicons.com/"
+      }
+    ]
+  }

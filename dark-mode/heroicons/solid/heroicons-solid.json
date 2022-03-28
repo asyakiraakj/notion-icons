@@ -1,0 +1,13 @@
+{
+    "icons": [
+      {
+        "name": "herocions solid",
+        "sourceUrl": "https://raw.githubusercontent.com/asyakiraakj/notion-icons/main/dark-mode/heroicons/solid/",
+        "source": "heroicons-solid",
+        "count": 230,
+        "extension": "svg",
+        "author": "Steve Schoger",
+        "authorUrl": "https://heroicons.com/"
+      }
+    ]
+  }
